@@ -10,6 +10,15 @@ a:hover{
   color: #EAF6F6;
 }
 
+.vada-pav-link {
+  color: #000066;
+  text-decoration: none;
+}
+
+.vada-pav-link:hover {
+  color: #66bFBF;
+}
+
 body {
   color: #40514E;
   margin: 0;
