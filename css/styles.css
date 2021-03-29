@@ -1,14 +1,14 @@
-a{
+.footer-link {
   color: #000066;
-
   font-family: 'Montserrat', sans-serif;
   margin: 10px 20px;
   text-decoration: none;
-
 }
-a:hover{
+
+.footer-link:hover {
   color: #EAF6F6;
 }
+
 
 .vada-pav-link {
   color: #000066;
